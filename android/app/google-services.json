@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "794675405370",
+    "firebase_url": "https://printhouse-be887.firebaseio.com",
+    "project_id": "printhouse-be887",
+    "storage_bucket": "printhouse-be887.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794675405370:android:d3a850f18b4bb3f5e18b03",
+        "android_client_info": {
+          "package_name": "com.joe.print_house"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794675405370-vqcbhv4i26oor3jqrk2ojr5pl59m9lop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6mzvZWxSXGLu1M1uupgEz-l-ocrHJPVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794675405370-vqcbhv4i26oor3jqrk2ojr5pl59m9lop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
